@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheJonOden
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Fuul Stack Web Development
+- 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on Websites and Web Applications
 - 📫 How to reach me twitter.com/@VoiceofOden
 
